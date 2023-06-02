@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyntiBinti. I'm a Fullstack Software Engineer (who career changed from Pharmacy💊)
-- 👀 I’m interested in Frontend Development (React 🔥)
+- 👀 I’m interested in automation and tooling (node.js 🔥)
 - 👩🏾‍💻 Currently learning Data Structures and Algorithms 📚. Check out my personal study guide here: https://tinyurl.com/26f9mx99
 - 🔔 I post content documenting my journey and helping others career switch into tech💪🏾. Let's connect! https://linktr.ee/bintibytes
 
